@@ -1,2 +1,2 @@
 ## Git assignment
-This repo contains for git asssignment.
+This repo contains solution for git asssignment.
